@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haopeihui.github.io/blog</id>
     <title>俺的官方网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-03-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haopeihui.github.io/blog"/>
     <subtitle>俺的官方网站 Blog</subtitle>
     <icon>https://haopeihui.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://haopeihui.github.io/blog/first-blog-post</id>
+        <link href="https://haopeihui.github.io/blog/first-blog-post"/>
+        <updated>2023-03-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气真不错]]></summary>
+        <content type="html"><![CDATA[<p>今天天气真不错</p>]]></content>
+        <author>
+            <name>Gao Wei</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://haopeihui.github.io/blog/welcome</id>
@@ -59,7 +73,7 @@
         <link href="https://haopeihui.github.io/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <content type="html"><![CDATA[<p>今天天气真不错</p>]]></content>
         <author>
             <name>Gao Wei</name>
             <uri>https://github.com/wgao19</uri>
